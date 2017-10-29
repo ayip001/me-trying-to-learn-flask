@@ -24,3 +24,6 @@ MAIL_PASSWORD = None
 ADMINS = [
     "ayip002@gmail.com"
     ]
+
+# pagination
+POSTS_PER_PAGE = 3
